@@ -10,7 +10,7 @@
                 <span>
                   <svg-shipping-car />
                 </span>
-                <p>FREE Express Shipping On Orders {{formatPrice(570)}}+</p>
+                <p>Envíos gratis a partir de  {{formatPrice(570)}}+</p>
               </div>
             </div>
             <div class="col-md-6">

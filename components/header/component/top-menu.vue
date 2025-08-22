@@ -1,6 +1,6 @@
 <template>
   <div class="tp-header-top-menu d-flex align-items-center justify-content-end">
-    <div class="tp-header-top-menu-item tp-header-lang">
+    <!-- <div class="tp-header-top-menu-item tp-header-lang">
       <span @click="handleActive('lang')" class="tp-header-lang-toggle" id="tp-header-lang-toggle">English</span>
       <ul :class="`${isActive === 'lang' ? 'tp-lang-list-open' : ''}`">
         <li>
@@ -47,7 +47,7 @@
           <nuxt-link href="/login">Logout</nuxt-link>
         </li>
       </ul>
-    </div>
+    </div> -->
   </div>
 </template>
 

@@ -30,9 +30,9 @@
     </div>
     <!-- brand -->
     <div class="tp-shop-widget mb-50">
-      <h3 class="tp-shop-widget-title">Popular Brands</h3>
+      <!-- <h3 class="tp-shop-widget-title">Popular Brands</h3> -->
       <!-- filter brand start -->
-      <shop-sidebar-filter-brand/>
+      <!-- <shop-sidebar-filter-brand/> -->
       <!-- filter brand end -->
     </div>
     <!-- reset filter start -->
